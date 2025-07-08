@@ -1,4 +1,4 @@
-# Bank Customer Churn Prediction Project
+# Bank Customer Churn Prediction Project 
 This project focuses on developing a machine learning model to predict bank customer churn. The main goal is to identify customers who are likely to churn so the bank can take proactive measures to retain them. The project includes stages of exploratory data analysis (EDA), data preprocessing, development and comparison of various machine learning models, hyperparameter tuning, and simulation of model deployment in a web application.
 
 ## Problem Solved
